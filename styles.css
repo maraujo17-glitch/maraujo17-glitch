@@ -1,0 +1,12 @@
+* {
+    background-color: #bb05cf;
+}
+
+h1, p{
+    colar: #000;
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+}
